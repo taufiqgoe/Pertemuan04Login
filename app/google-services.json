@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "905735668437",
+    "project_id": "pertemuan04login",
+    "storage_bucket": "pertemuan04login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905735668437:android:908a48a30c79a219f5185c",
+        "android_client_info": {
+          "package_name": "com.example.pertemuan04login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905735668437-0gfdotrskca65n0fpt381qp3122tuu3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8FvPAM8WfUiHNl6KMtwKyT0q1QxiWUiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905735668437-0gfdotrskca65n0fpt381qp3122tuu3r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
